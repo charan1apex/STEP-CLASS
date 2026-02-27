@@ -7,6 +7,6 @@ public class uc2 {
         System.out.println(" **  **   ** **   ******     ***  ");
         System.out.println(" **  **   ** **   **            **");
         System.out.println(" **  **   ** **   **            **");
-        System.out.println("  ***      ***    **         *****");
+        System.out.println("  ***      ***    **        ***** ");
     }
 }
