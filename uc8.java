@@ -41,7 +41,6 @@ public class uc8 {
 
         renderBanner(word, bannerMap);
     }
-
     public static void renderBanner(String word, Map<Character, BannerCharacter> bannerMap) {
 
         for (int row = 0; row < 7; row++) {
