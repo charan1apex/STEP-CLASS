@@ -52,7 +52,6 @@ public class uc7 {
         }
     }
 }
-
 class CharacterPattern {
 
     private char character;
